@@ -1,2 +1,1 @@
-po ffff
-prikoly pishu suda
+po prikoly pishu suda 
