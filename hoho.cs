@@ -1,1 +1,0 @@
-po prikoly pishu suda 
